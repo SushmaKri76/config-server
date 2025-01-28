@@ -1,3 +1,6 @@
+spring:
+  config:
+    name: Config-Default
 eureka:
   client:
     register-with-eureka: true
